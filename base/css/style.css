@@ -20,6 +20,18 @@ a {
     text-decoration: none
 }
 
+a.gbase {
+    color: cornsilk
+}
+
+a.dgarage {
+    color: cadetblue
+}
+
+a.discords {
+    color: indianred
+}
+
 a.lol1 {
     color: red
 }
