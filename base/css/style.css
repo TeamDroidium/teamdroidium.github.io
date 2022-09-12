@@ -20,10 +20,6 @@ a {
     text-decoration: none
 }
 
-a.gbase {
-    color: cornsilk
-}
-
 a.dgarage {
     color: cadetblue
 }
@@ -138,4 +134,8 @@ a.paypal {
 
 a.sellapp {
     color: goldenrod
+}
+
+a.email {
+    color: firebrick
 }
