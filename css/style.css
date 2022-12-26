@@ -1,0 +1,109 @@
+@font-face {
+    font-family: 'Pixel';
+    src: url(./fonts/pixel.ttf) format('truetype');
+}
+
+html {
+    background-color: black;
+    color: whitesmoke;
+    font-family: 'Pixel';
+    font-size: medium;
+    line-height: 1.5px;
+}
+
+body {
+    margin-top: 50px;
+}
+
+a {
+    color: inherit;
+    text-decoration: none
+}
+
+a.dalts {
+    color: cadetblue
+}
+
+a.discords {
+    color: indianred
+}
+
+a.lol1 {
+    color: red
+}
+
+a.lol2 {
+    color: orangered
+}
+
+a.lol3 {
+    color: orange
+}
+
+a.lul1 {
+    color: cornflowerblue
+}
+
+a.lul3 {
+    color: violet
+}
+
+a.songs {
+    color: lightcoral;
+}
+
+a.music {
+    color:lightpink
+}
+
+p.brackets {
+    color:rgb(240, 240, 240);
+}
+
+a.falling {
+    color: beige;
+}
+
+a.in {
+    color:cornsilk;
+}
+
+a.love {
+    color:lightpink;
+}
+
+a.friends {
+    color: paleturquoise
+}
+
+a.projects {
+    color: purple
+}
+
+a.paypal {
+    color: blue
+}
+
+a.cashapp {
+    color: green
+}
+
+a.addy {
+    color: darksalmon
+}
+
+a.btc {
+    color: goldenrod
+}
+
+a.eth {
+    color: maroon
+}
+
+a.ltc {
+    color: silver
+}
+
+a.twitter {
+    color: darkcyan
+}
